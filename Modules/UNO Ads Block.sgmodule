@@ -1,5 +1,6 @@
 #!name=UNO Ads Block
 #!desc=UNO Ads Block
+#!url=https://raw.githubusercontent.com/llanguor/Shadowrocket/refs/heads/main/Modules/UNO%20Ads%20Block.sgmodule
 
 [RULE]
 DOMAIN-KEYWORD,inmobi,REJECT
