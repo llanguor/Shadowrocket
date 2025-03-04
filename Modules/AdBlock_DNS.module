@@ -1,4 +1,4 @@
-#!name=AdBlock DNS
+#!name=AdGuard DNS
 #!desc=Подключение DNS для блокировки рекламы
 #!arguments=LocalDNS:quic://dns.adguard-dns.com
 
