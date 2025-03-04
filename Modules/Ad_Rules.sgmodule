@@ -4,9 +4,8 @@
 [Rule]
 
 #Общее
-DOMAIN-SUFFIX,metrika.yandex.ru,REJECT
-DOMAIN-SUFFIX,appmetrica.yandex.ru,REJECT
-DOMAIN-SUFFIX,mc.yandex.ru,REJECT
+DOMAIN,metrika.yandex.ru,REJECT
+DOMAIN,appmetrica.yandex.ru,REJECT
 
 #Animestars
-DOMAIN-SUFFIX,a.suprion.ru,REJECT
+DOMAIN-SUFFIX,suprion.ru,REJECT
