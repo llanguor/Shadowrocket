@@ -10,11 +10,12 @@
 dns-server = LocalDNS
 
 [Host]
-twitch.tv = server:syslib
-*.twitch.tv = server:syslib
-ttvnw.net = server:syslib
-*.ttvnw.net = server:syslib
-twitchcdn.net = server:syslib
-*.twitchcdn.net = server:syslib
-jtvnw.net = server:syslib
-*.jtvnw.net = server:syslib
+[Host]
+twitch.tv =  server:1.1.1.1
+*.twitch.tv = server:1.1.1.1
+ttvnw.net = server:1.1.1.1
+*.ttvnw.net = server:1.1.1.1
+twitchcdn.net = server:1.1.1.1
+*.twitchcdn.net = server:1.1.1.1
+jtvnw.net = server:1.1.1.1
+*.jtvnw.net = server:1.1.1.1
