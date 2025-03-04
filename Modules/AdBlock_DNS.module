@@ -10,12 +10,11 @@
 dns-server = LocalDNS
 
 [Host]
-[Host]
-twitch.tv =  server:1.1.1.1
-*.twitch.tv = server:1.1.1.1
-ttvnw.net = server:1.1.1.1
-*.ttvnw.net = server:1.1.1.1
-twitchcdn.net = server:1.1.1.1
-*.twitchcdn.net = server:1.1.1.1
-jtvnw.net = server:1.1.1.1
-*.jtvnw.net = server:1.1.1.1
+twitch.tv = server:https://cloudflare-dns.com/dns-query
+*.twitch.tv = server:https://cloudflare-dns.com/dns-query
+ttvnw.net = server:https://cloudflare-dns.com/dns-query
+*.ttvnw.net = server:https://cloudflare-dns.com/dns-query
+twitchcdn.net = server:https://cloudflare-dns.com/dns-query
+*.twitchcdn.net = server:https://cloudflare-dns.com/dns-query
+jtvnw.net = server:https://cloudflare-dns.com/dns-query
+*.jtvnw.net = server:https://cloudflare-dns.com/dns-query
