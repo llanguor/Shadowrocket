@@ -1,7 +1,7 @@
 #!name=Ad Rules UNO
 #!desc=Блокировка рекламы в мобильной игре UNO
 
-[RULE]
+[Rule]
 DOMAIN-KEYWORD,inmobi,REJECT
 DOMAIN-KEYWORD,rayjump,REJECT
 DOMAIN-KEYWORD,appsflyersdk,REJECT
