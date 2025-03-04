@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
 DOMAIN,startup.mobile.yandex.net,REJECT
-DOMAIN-SUFFIX,yandexadexchange.ru,REJECT
+DOMAIN,mobile.yandexadexchange.ru,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
 DOMAIN,mc.yandex.ru,REJECT
 DOMAIN-SUFFIX,ai-adtech,REJECT
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,superfunads.ru,REJECT
 DOMAIN-SUFFIX,tapulsads.ru,REJECT
 DOMAIN-SUFFIX,mradx.net,REJECT
 DOMAIN-SUFFIX,adfox.ru,REJECT
+DOMAIN-SUFFIX,toponadss.com,REJECT
