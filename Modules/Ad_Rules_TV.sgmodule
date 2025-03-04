@@ -1,7 +1,7 @@
 #!name=Ad Rules TV
 #!desc=Блокировка рекламы в приложении TV
 
-[RULE]
+[Rule]
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN-SUFFIX,ca.iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,startup.mobile.yandex.net,REJECT
