@@ -1,4 +1,4 @@
-#!name=AdGuard DNS
+#!name=Ad Guard DNS
 #!desc=Подключение DNS для блокировки рекламы
 #quic://dns.adguard-dns.com
 #https://dns.adguard-dns.com/dns-query
