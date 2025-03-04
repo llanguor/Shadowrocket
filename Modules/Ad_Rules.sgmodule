@@ -1,5 +1,10 @@
 #!name=Ad Rules
 #!desc=Свои правила блокировки рекламы
 
+#Общее
 DOMAIN-SUFFIX,metrika.yandex.ru,REJECT
 DOMAIN-SUFFIX,appmetrica.yandex.ru,REJECT
+DOMAIN-SUFFIX,mc.yandex.ru,REJECT
+
+#Animestars
+DOMAIN-SUFFIX,a.suprion.ru,REJECT
