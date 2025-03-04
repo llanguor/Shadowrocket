@@ -1,8 +1,13 @@
 #!name=AdBlock DNS
 #!desc=Подключение DNS для блокировки рекламы
+#!arguments=LocalDNS:quic://dns.adguard-dns.com
+
+#quic://dns.adguard-dns.com
+#https://dns.adguard-dns.com/dns-query
+#tls://dns.adguard-dns.com
 
 [General]
-dns-server = quic://dns.adguard-dns.com
+dns-server = LocalDNS
 
 [Host]
 twitch.tv = server:syslib
