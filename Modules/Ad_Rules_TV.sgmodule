@@ -3,10 +3,15 @@
 
 [Rule]
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
-DOMAIN-SUFFIX,ca.iadsdk.apple.com,REJECT
-DOMAIN-SUFFIX,startup.mobile.yandex.net,REJECT
-DOMAIN-SUFFIX,mobile.yandexadexchange.ru,REJECT
-DOMAIN-SUFFIX,dmg.digitaltarget.ru,REJECT
-DOMAIN-SUFFIX,mc.yandex.ru,REJECT
-DOMAIN-SUFFIX,ssp.ai-adtech,REJECT
-DOMAIN-SUFFIX,exchange.buzzoola.com,REJECT
+DOMAIN,ca.iadsdk.apple.com,REJECT
+DOMAIN,startup.mobile.yandex.net,REJECT
+DOMAIN-SUFFIX,yandexadexchange.ru,REJECT
+DOMAIN-SUFFIX,digitaltarget.ru,REJECT
+DOMAIN,mc.yandex.ru,REJECT
+DOMAIN-SUFFIX,ai-adtech,REJECT
+DOMAIN,exchanges.buzzoola.com,REJECT
+DOMAIN-SUFFIX,richlifeads.ru,REJECT
+DOMAIN-SUFFIX,superfunads.ru,REJECT
+DOMAIN-SUFFIX,tapulsads.ru,REJECT
+DOMAIN-SUFFIX,mradx.net,REJECT
+DOMAIN-SUFFIX,adfox.ru,REJECT
