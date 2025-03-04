@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,startup.mobile.yandex.net,REJECT
 DOMAIN-SUFFIX,mobile.yandexadexchange.ru,REJECT
 DOMAIN-SUFFIX,dmg.digitaltarget.ru,REJECT
 DOMAIN-SUFFIX,mc.yandex.ru,REJECT
+DOMAIN-SUFFIX,ssp.ai-adtech,REJECT
