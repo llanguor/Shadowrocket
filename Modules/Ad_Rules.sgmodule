@@ -1,6 +1,8 @@
 #!name=Ad Rules
 #!desc=Свои правила блокировки рекламы
 
+[RULE]
+
 #Общее
 DOMAIN-SUFFIX,metrika.yandex.ru,REJECT
 DOMAIN-SUFFIX,appmetrica.yandex.ru,REJECT
