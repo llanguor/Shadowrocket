@@ -1,8 +1,8 @@
 {
     "rules": [
         {
-            "domain_keyword": [
-
+            "domain": [
+                "2ip.ru"
             ],
             "outbound": "bypass"
         },
