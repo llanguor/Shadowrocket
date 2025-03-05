@@ -1,6 +1,12 @@
 {
     "rules": [
         {
+            "domain_keyword": [
+
+            ],
+            "outbound": "bypass"
+        },
+        {
             "domain": [
             ],
             "domain_keyword": [
