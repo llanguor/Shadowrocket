@@ -5,7 +5,7 @@
 #tls://dns.adguard-dns.com
 
 [General]
-dns-server = quic://dns.adguard-dns.com
+dns-server = https://dns.adguard-dns.com/dns-query
 
 [Host]
 twitch.tv = server:https://cloudflare-dns.com/dns-query
