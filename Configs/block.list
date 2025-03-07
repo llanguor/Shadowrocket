@@ -2,7 +2,6 @@
 DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
 
-DOMAIN-SUFFIX,2ip.ru,REJECT
 #Animestars
 DOMAIN-SUFFIX,suprion.ru,REJECT
 
