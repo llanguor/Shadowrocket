@@ -9,3 +9,22 @@ DOMAIN,appmetrica.yandex.ru,REJECT
 
 #Animestars
 DOMAIN-SUFFIX,suprion.ru,REJECT
+
+#TV
+DOMAIN-SUFFIX,tns-counter.ru,REJECT
+DOMAIN,ca.iadsdk.apple.com,REJECT
+DOMAIN,startup.mobile.yandex.net,REJECT
+DOMAIN-KEYWORD,yandexadexchange,REJECT
+DOMAIN-SUFFIX,digitaltarget.ru,REJECT
+#DOMAIN,mc.yandex.ru,REJECT
+DOMAIN-KEYWORD,ai-adtech,REJECT
+DOMAIN-KEYWORD,al-adtech,REJECT
+DOMAIN,exchange.buzzoola.com,REJECT
+DOMAIN-SUFFIX,richlifeads.ru,REJECT
+DOMAIN-SUFFIX,superfunads.ru,REJECT
+DOMAIN-SUFFIX,tapulsads.ru,REJECT
+DOMAIN-SUFFIX,mradx.net,REJECT
+DOMAIN-SUFFIX,adfox.ru,REJECT
+DOMAIN-SUFFIX,toponadss.com,REJECT
+DOMAIN-SUFFIX,adriver.ru
+DOMAIN-KEYWORD,revenuads
