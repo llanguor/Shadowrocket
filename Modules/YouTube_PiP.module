@@ -8,7 +8,7 @@ AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 
 [Url Rewrite]
 # ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad - reject-img
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad _ reject-200
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|initplayback|videoplayback\?)).+&oad _ reject-200
 
 #Блокировка рекламы Universal
 ^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads _ reject-200
