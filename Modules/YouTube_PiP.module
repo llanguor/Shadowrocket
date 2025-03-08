@@ -7,15 +7,15 @@ AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 
 [Url Rewrite]
-#Блокировка рекламы??? или что то еще? С этим правилом долго грузятся шортсы
+#Для работы всего функционала. Тупят шортсы. 
 #^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad _ reject-200
-#Было заменено на это. Если будет в будущем реклама - править
-#Если не будет убиратьсч видео то убрать ctier=SH или el=shortpage
+#Ршение. Может появиться реклама. Если не будет работать PiP то убрать ctier=SH или el=shortpage
 ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&opf=1)).+&oad _ reject-200
 
 #Блокировка рекламы Universal
+#С верхней долгая первичная загрузка. Раскомментить если будет реклама
+#^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) _ reject-200
 ^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads _ reject-200
-^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) _ reject-200
 ^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext _ reject-200
 
 #Блокировка рекламы General video
