@@ -2,9 +2,6 @@
 DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
 
-#Animestars
-DOMAIN-SUFFIX,suprion.ru,REJECT
-
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
