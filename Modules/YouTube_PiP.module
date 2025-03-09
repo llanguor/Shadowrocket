@@ -10,7 +10,8 @@ AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 #Для работы всего функционала
 #^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad _ reject-200
 #Ускорение шортсов - их пропуск в обход модуля. Если не будет работать PiP то убрать ctier=SH или el=shortpage
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&opf=1)).+&oad _ reject-200
+#^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&opf=1)).+&oad _ reject-200
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&opf=1|initplayback.*pxtags=Cg4KAnR4Egg1MTM5OTk3Mg)).+&oad _ reject-200
 
 #Блокировка рекламы Universal
 #^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads _ reject-200
