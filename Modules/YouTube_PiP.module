@@ -13,6 +13,7 @@ AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 #Ускорение шортсов - их пропуск в обход модуля. Было правило initplayback.*&opf=1. оно рушит pip в next 
 #^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH)).+&oad _ reject-200
 #^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&owc=1)).+&oad _ reject-200
+#Одно из этих правил как будто ломает некоторые видео
 #^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&owc=1|initcwndbps=(?:[0-9]{1,6}|1[0-6]\d{5}|17[0-3]\d{4}))).+&oad _ reject-200
 ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?|el=shortspage|ctier=SH|initplayback.*&owc=1|initcwndbps=(?:[0-9]{1,6}|1[0-6]\d{5}))).+&oad _ reject-200
 
