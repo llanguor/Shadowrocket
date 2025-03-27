@@ -1,5 +1,6 @@
 #!name=Spotify Premium
 #!desc=Частичное снятие ограничений бесплатной версии
+#https://github.com/StricklandF/shadowrocket-module/tree/main
 
 [MITM]
 hostname = %APPEND% spclient.wg.spotify.com
