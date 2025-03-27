@@ -20,7 +20,8 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.m
 
 #Spotify
-DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
 
 #Homework
 DOMAIN-SUFFIX,x.com
