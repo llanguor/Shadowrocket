@@ -1,5 +1,5 @@
 #!name=Spotify Premium
-#!desc=Часичное сняие ограничений бесплатной версии
+#!desc=Частичное снятие ограничений бесплатной версии
 
 [MITM]
 hostname = %APPEND% spclient.wg.spotify.com
