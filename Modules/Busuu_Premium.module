@@ -3,7 +3,7 @@
 #https://github.com/iSteal-it/script
 
 [Script]
-bussu = type = http-response, script-path=https://raw.githubusercontent.com/iSteal-it/script/main/bussu.json,pattern=^https:\/\/api\.busuu\.com\/users\/me,max-size=131072,requires-body=true,timeout=10,enable=true
+bussu = type = http-response, script-path=https://raw.githubusercontent.com/llanguor/Shadowrocket/refs/heads/main/Modules/Busuu_Premium.json,pattern=^https:\/\/api\.busuu\.com\/users\/me,max-size=131072,requires-body=true,timeout=10,enable=true
 
 [MITM]
 hostname = %APPEND% api.busuu.com
