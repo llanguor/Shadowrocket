@@ -1,0 +1,9 @@
+#!name=Lightroom Premium
+#!desc=Разблокировка платного функционала Lightroom
+#https://github.com/iSteal-it/script
+
+[Script]
+LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/lightroom.js
+
+[MITM]
+hostname = %APPEND% photos.adobe.io
