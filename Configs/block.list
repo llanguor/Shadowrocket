@@ -4,7 +4,7 @@ DOMAIN,appmetrica.yandex.ru,REJECT
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
-#DOMAIN,ca.iadsdk.apple.com,REJECT
+DOMAIN,ca.iadsdk.apple.com,REJECT
 DOMAIN,startup.mobile.yandex.net,REJECT
 DOMAIN-KEYWORD,yandexadexchange,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
