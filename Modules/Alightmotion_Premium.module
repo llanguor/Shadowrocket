@@ -1,6 +1,7 @@
 #!name=Alight Motion Premium
 #!desc=
 #https://github.com/GMOogway/shadowrocket-modules/modules
+#https://raw.githubusercontent.com/iSteal-it/script/refs/heads/main/alight-motion.json
 
 [Script]
 Alightmotion = type=http-response,script-path=https://raw.githubusercontent.com/iSteal-it/script/refs/heads/main/alight-motion.json,pattern=^https:\/\/us-central1-alight-creative\.cloudfunctions\.net\/getAccountStatusAndLicenses,max-size=131072,requires-body=true,timeout=10,enable=true
