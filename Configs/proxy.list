@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 
 #Meta
 DOMAIN-KEYWORD,instagram
