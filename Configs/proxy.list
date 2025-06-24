@@ -44,3 +44,8 @@ DOMAIN-SUFFIX,etahub.com
 #Anime
 DOMAIN-SUFFIX,jut.su
 DOMAIN-KEYWORD,animestars
+
+#Twitch
+DOMAIN-KEYWORD,twitch
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,jtvnw
