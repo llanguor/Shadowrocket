@@ -1,4 +1,4 @@
-# AI
+#AI
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,elevenlabs.io
@@ -46,6 +46,4 @@ DOMAIN-SUFFIX,jut.su
 DOMAIN-KEYWORD,animestars
 
 #Twitch
-DOMAIN-KEYWORD,twitch
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-KEYWORD,jtvnw
+DOMAIN,usher.ttvnw.net
