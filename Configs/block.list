@@ -2,6 +2,9 @@
 DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
 
+#Faggot's shit
+DOMAIN-KEYWORD,max
+
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
