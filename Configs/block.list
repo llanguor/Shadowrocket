@@ -4,6 +4,7 @@ DOMAIN,appmetrica.yandex.ru,REJECT
 
 #Faggot's shit
 DOMAIN-KEYWORD,max
+DOMAIN-SUFFIX,max.ru
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
