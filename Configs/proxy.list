@@ -48,3 +48,6 @@ DOMAIN-KEYWORD,animestars
 #Twitch
 DOMAIN,usher.ttvnw.net
 DOMAIN,gql.twitch.tv #?
+
+#DeepL
+DOMAIN-SUFFIX,deepl.com
