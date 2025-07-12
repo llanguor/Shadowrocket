@@ -51,3 +51,8 @@ DOMAIN,gql.twitch.tv #?
 
 #DeepL
 DOMAIN-SUFFIX,deepl.com
+
+#Apple Intelligence ChatGPT
+#DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+#DOMAIN-SUFFIX,apple-relay.apple.com
+#DOMAIN-SUFFIX,apple-relay.cloudflare.com
