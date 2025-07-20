@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,deepl.com
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 #DOMAIN-SUFFIX,apple-relay.apple.com
 #DOMAIN-SUFFIX,apple-relay.cloudflare.com
+
+#Series
+DOMAIN-SUFFIX,chernoezerkalotv.ru
