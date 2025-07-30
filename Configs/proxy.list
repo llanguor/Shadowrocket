@@ -1,3 +1,6 @@
+#Network
+DOMAIN-KEYWORD,speedtest
+
 #AI
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,copilot.microsoft.com
