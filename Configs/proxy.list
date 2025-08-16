@@ -1,22 +1,12 @@
-#Network
-DOMAIN-KEYWORD,speedtest
-
-#AI
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,elevenlabs.io
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,x.ai
-
 #Meta
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.m
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
 
 #Spotify
 DOMAIN-SUFFIX,scdn.co
@@ -42,11 +32,34 @@ DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,jut.su
 DOMAIN-KEYWORD,animestars
 
+#Series
+DOMAIN-SUFFIX,chernoezerkalotv.ru
+DOMAIN-SUFFIX,zetimage.net
+
+#Network
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,maxmind.com
+
 #Twitch
 DOMAIN,usher.ttvnw.net
 DOMAIN,gql.twitch.tv
 
-#DeepL
+#AI
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,composer.opera-api.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,deepl.com
 
 #Apple Intelligence ChatGPT
@@ -54,6 +67,21 @@ DOMAIN-SUFFIX,deepl.com
 #DOMAIN-SUFFIX,apple-relay.apple.com
 #DOMAIN-SUFFIX,apple-relay.cloudflare.com
 
-#Series
-DOMAIN-SUFFIX,chernoezerkalotv.ru
-DOMAIN-SUFFIX,zetimage.net
+#Notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+
+#Professional
+DOMAIN-SUFFIX,jetbrains.com
+
+#Other
+DOMAIN-KEYWORD,4pda
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,canva.dev
+DOMAIN-SUFFIX,dyson.com
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,x-minus.pro
+DOMAIN-SUFFIX,api2.support-kp.com
+DOMAIN-SUFFIX,hackernoon.com
+DOMAIN-SUFFIX,cub.red
+DOMAIN-KEYWORD,kahoot
