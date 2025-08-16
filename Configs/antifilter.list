@@ -36,23 +36,6 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,film-torrent.ru
 DOMAIN-SUFFIX,film-tor.org
 
-#Main
-DOMAIN-KEYWORD,phncdn
-DOMAIN-KEYWORD,pornhub
-DOMAIN-KEYWORD,discordapp
-DOMAIN-KEYWORD,discord
-DOMAIN-SUFFIX,dis.gd
-DOMAIN-SUFFIX,discord-activities.com
-DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
-DOMAIN-SUFFIX,discordactivities.com
-DOMAIN-SUFFIX,discord-activities.com
-DOMAIN-SUFFIX,discordapp.page.link
-DOMAIN-SUFFIX,discordcdn.com
-DOMAIN-SUFFIX,discordmerch.com
-DOMAIN-SUFFIX,discordpartygames.com
-DOMAIN-SUFFIX,discordsays.com
-DOMAIN-SUFFIX,discordstatus.com
-
 #Other
 DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
