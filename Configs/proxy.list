@@ -9,18 +9,12 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
 #Meta
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,meta.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,gateway.facebook.com
-DOMAIN-SUFFIX,edge-chat.facebook.com
-DOMAIN-SUFFIX,l.facebook.com
+DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.m
 
@@ -50,7 +44,7 @@ DOMAIN-KEYWORD,animestars
 
 #Twitch
 DOMAIN,usher.ttvnw.net
-DOMAIN,gql.twitch.tv #?
+DOMAIN,gql.twitch.tv
 
 #DeepL
 DOMAIN-SUFFIX,deepl.com
