@@ -1,10 +1,12 @@
 DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -24,9 +26,16 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN-SUFFIX,software-static.download.prss.microsoft.com
+DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 DOMAIN-SUFFIX,accessyoutube.org.uk
+DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,dnsskk.ru
+DOMAIN-SUFFIX,doh-fi.blahdns.com
+DOMAIN-SUFFIX,doh.centraleu.pi-dns.com
+DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,mega.youtubemoriarty.com
 DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,mizugadro.mydns.jp
 DOMAIN-SUFFIX,news.google.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,www.youtuberepeater.com
@@ -3551,7 +3560,6 @@ DOMAIN-KEYWORD,zoneinnovations
 DOMAIN-KEYWORD,zvukiknig
 DOMAIN-KEYWORD,zzztube
 DOMAIN-SUFFIX,abook-club.ru
-DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adafruit.com
 DOMAIN-SUFFIX,afcs.dellcdn.com
 DOMAIN-SUFFIX,aftermarket.schaeffler.com
@@ -3596,7 +3604,6 @@ DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,cdn.betterttv.net
@@ -3742,7 +3749,6 @@ DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,ufile.io
 DOMAIN-SUFFIX,underver.se
-DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 DOMAIN-SUFFIX,vectorworks.net
 DOMAIN-SUFFIX,velocidrone.com
 DOMAIN-SUFFIX,veritas.com
@@ -4728,7 +4734,6 @@ DOMAIN-SUFFIX,adcmemorial.org
 DOMAIN-SUFFIX,addcred.biz
 DOMAIN-SUFFIX,adecvatcs.ru
 DOMAIN-SUFFIX,adexa48.ru
-DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adiloits.com
 DOMAIN-SUFFIX,adiole.capital
 DOMAIN-SUFFIX,adlerfeya.com
@@ -8801,7 +8806,6 @@ DOMAIN-SUFFIX,dneprcity.net
 DOMAIN-SUFFIX,dnipro-m.ua
 DOMAIN-SUFFIX,dniprotoday.com
 DOMAIN-SUFFIX,dnp-zerkalo.ru
-DOMAIN-SUFFIX,dnsskk.ru
 DOMAIN-SUFFIX,dntuyt.ru
 DOMAIN-SUFFIX,dnvidov.mobi
 DOMAIN-SUFFIX,doablebase.click
@@ -8829,8 +8833,6 @@ DOMAIN-SUFFIX,dogeconnect.com
 DOMAIN-SUFFIX,doghousedigital.com
 DOMAIN-SUFFIX,doghousemega.fun
 DOMAIN-SUFFIX,dogstats.ru
-DOMAIN-SUFFIX,doh-fi.blahdns.com
-DOMAIN-SUFFIX,doh.centraleu.pi-dns.com
 DOMAIN-SUFFIX,dojindb.net
 DOMAIN-SUFFIX,dojki1.com
 DOMAIN-SUFFIX,dojkihd.com
@@ -12817,7 +12819,6 @@ DOMAIN-SUFFIX,iptv-kartina.tv
 DOMAIN-SUFFIX,kartina.tv
 DOMAIN-SUFFIX,iptv.org.ua
 DOMAIN-SUFFIX,iptvforhome.net
-DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,iptvrussia.ru
 DOMAIN-SUFFIX,ipulse.partners
 DOMAIN-SUFFIX,iq-city-cloud.xyz
@@ -15449,7 +15450,6 @@ DOMAIN-SUFFIX,mixfile.ucoz.ru
 DOMAIN-SUFFIX,mixkeys.ru
 DOMAIN-SUFFIX,mixsakh.biz
 DOMAIN-SUFFIX,miya-jewelry.ru
-DOMAIN-SUFFIX,mizugadro.mydns.jp
 DOMAIN-SUFFIX,mjhfinance.com
 DOMAIN-SUFFIX,mjnovosti.info
 DOMAIN-SUFFIX,mk-puzat.ru
