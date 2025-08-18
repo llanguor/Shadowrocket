@@ -8,12 +8,9 @@ DOMAIN-KEYWORD,max,REJECT
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
-DOMAIN,startup.mobile.yandex.net,REJECT
 DOMAIN-KEYWORD,yandexadexchange,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
-#DOMAIN,mc.yandex.ru,REJECT
 DOMAIN-KEYWORD,ai-adtech,REJECT
-DOMAIN-KEYWORD,al-adtech,REJECT
 DOMAIN,exchange.buzzoola.com,REJECT
 DOMAIN-SUFFIX,richlifeads.ru,REJECT
 DOMAIN-SUFFIX,superfunads.ru,REJECT
