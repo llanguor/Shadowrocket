@@ -10,7 +10,8 @@ DOMAIN-SUFFIX,fbsbx.com
 
 #Spotify
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,spotifycdn
 
 #Homework
 DOMAIN-SUFFIX,x.com
