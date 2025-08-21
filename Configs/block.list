@@ -1,8 +1,6 @@
 #Общее
 DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
-
-#Faggot's shit
 DOMAIN-SUFFIX,max.ru,REJECT
 DOMAIN-SUFFIX,maxhubs.ru,REJECT
 
