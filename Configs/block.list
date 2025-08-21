@@ -3,8 +3,8 @@ DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
 
 #Faggot's shit
-DOMAIN-KEYWORD,max,REJECT
-DOMAIN-KEYWORD,maxhubs,REJECT
+DOMAIN-SUFFIX,max.ru,REJECT
+DOMAIN-SUFFIX,maxhubs.ru,REJECT
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
