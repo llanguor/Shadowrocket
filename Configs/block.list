@@ -1,4 +1,4 @@
-#Общее
+#Other
 DOMAIN,metrika.yandex.ru,REJECT
 DOMAIN,appmetrica.yandex.ru,REJECT
 DOMAIN-SUFFIX,max.ru,REJECT
