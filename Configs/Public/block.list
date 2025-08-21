@@ -1,13 +1,9 @@
 #Other
-DOMAIN,metrika.yandex.ru,REJECT
-DOMAIN,appmetrica.yandex.ru,REJECT
-DOMAIN-SUFFIX,max.ru,REJECT
-DOMAIN-SUFFIX,maxhubs.ru,REJECT
+
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
-DOMAIN-KEYWORD,yandexadexchange,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
 DOMAIN-KEYWORD,ai-adtech,REJECT
 DOMAIN,exchange.buzzoola.com,REJECT
