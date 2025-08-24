@@ -1,4 +1,3 @@
-DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtubego.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -7,7 +6,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,yting.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,video.google.com
