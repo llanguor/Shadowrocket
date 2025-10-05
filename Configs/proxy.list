@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,maxmind.com
 
 #Twitch
 DOMAIN,usher.ttvnw.net
-DOMAIN,gql.twitch.tv
+#DOMAIN,gql.twitch.tv
 
 #AI
 DOMAIN-SUFFIX,apple-relay.apple.com
