@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,composer.opera-api.com
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,klingai.com
 
 #Apple Intelligence ChatGPT
 #DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
