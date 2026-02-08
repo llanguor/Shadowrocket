@@ -84,6 +84,8 @@ DOMAIN-KEYWORD,snapchat
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-KEYWORD,hiddify
 DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,btmessage.com
+DOMAIN-SUFFIX,algolia.io
 
 #Homework
 DOMAIN-SUFFIX,x.com
