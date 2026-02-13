@@ -4,6 +4,11 @@ DOMAIN,appmetrica.yandex.ru,REJECT
 DOMAIN-SUFFIX,max.ru,REJECT
 DOMAIN-SUFFIX,maxhubs.ru,REJECT
 
+#Twitch
+DOMAIN-SUFFIX,ads.twitch.tv,REJECT
+DOMAIN-KEYWORD,advertising.amazon,REJECT
+DOMAIN-KEYWORD,amazon-adsystem,REJECT
+
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN,ca.iadsdk.apple.com,REJECT
