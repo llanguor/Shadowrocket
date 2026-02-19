@@ -91,6 +91,9 @@ DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,btmessage.com
 DOMAIN-SUFFIX,algolia.io
 
+#Minecraft
+DOMAIN-SUFFIX,modrinth.com
+
 #Homework
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,xhamster3
