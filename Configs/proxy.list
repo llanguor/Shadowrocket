@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,btmessage.com
 DOMAIN-SUFFIX,algolia.io
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,green.cloud
+DOMAIN-KEYWORD,unsplash
 
 #Minecraft
 DOMAIN-SUFFIX,modrinth.com
