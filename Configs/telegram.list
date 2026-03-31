@@ -17,9 +17,16 @@ DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,teleg.xyz
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,telegramapp
 DOMAIN-KEYWORD,nicegram
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,tgram.org
+DOMAIN-SUFFIX,torg.org
+
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,2001:67c:4e8::/48,no-resolve
