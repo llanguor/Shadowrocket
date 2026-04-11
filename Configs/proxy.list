@@ -25,6 +25,10 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,green.cloud
 DOMAIN-KEYWORD,unsplash
 
+#Apple
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,amazonaws.com
+
 #Meta
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,meta.com
