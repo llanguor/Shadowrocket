@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,adfstat.yandex.ru,REJECT
 DOMAIN-SUFFIX,ads.twitch.tv,REJECT
 DOMAIN-KEYWORD,advertising.amazon,REJECT
 DOMAIN-KEYWORD,amazon-adsystem,REJECT
+DOMAIN,spade.twitch.tv,REJECT
+DOMAIN,player.stats.live-video.net,REJECT
+
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
