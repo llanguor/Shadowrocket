@@ -9,6 +9,10 @@ DOMAIN-KEYWORD,metrica.yandex,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 
+#Ads
+DOMAIN-SUFFIX,adfstat.yandex.ru,REJECT
+
+
 #Twitch
 DOMAIN-SUFFIX,ads.twitch.tv,REJECT
 DOMAIN-KEYWORD,advertising.amazon,REJECT
