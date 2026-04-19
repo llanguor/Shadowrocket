@@ -9,6 +9,9 @@ DOMAIN-KEYWORD,metrica.yandex,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 
+#firebase-settings.crashlytics.com
+#books-analytics-events.apple.com
+
 #Twitch
 DOMAIN-SUFFIX,ads.twitch.tv,REJECT
 DOMAIN-KEYWORD,advertising.amazon,REJECT
