@@ -1,9 +1,11 @@
 #Other
-DOMAIN,metrika.yandex.ru,REJECT
-DOMAIN,appmetrica.yandex.ru,REJECT
-DOMAIN-KEYWORD,appmetrica.yandex,REJECT
 DOMAIN-SUFFIX,max.ru,REJECT
 DOMAIN-SUFFIX,maxhubs.ru,REJECT
+DOMAIN-SUFFIX,oneme.ru,REJECT
+
+#Analytics
+DOMAIN-KEYWORD,vk-analytics,REJECT
+DOMAIN-KEYWORD,metrika.yandex,REJECT
 
 #Twitch
 DOMAIN-SUFFIX,ads.twitch.tv,REJECT
