@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,metrica.yandex,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 DOMAIN-SUFFIX,stat-analytics.mediavitrina.ru,REJECT
+DOMAIN,tr.iadsdk.apple.com,REJECT
+DOMAIN-SUFFIX,adj.st,REJECT
 
 #Ads
 DOMAIN-SUFFIX,adfstat.yandex.ru,REJECT
