@@ -5,9 +5,9 @@ DOMAIN-SUFFIX,oneme.ru,REJECT
 
 #Analytics
 DOMAIN-KEYWORD,vk-analytics,REJECT
-DOMAIN-KEYWORD,metrika.yandex,REJECT
+DOMAIN-KEYWORD,metrica.yandex,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
-
+DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 
 #Twitch
 DOMAIN-SUFFIX,ads.twitch.tv,REJECT
