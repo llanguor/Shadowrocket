@@ -97,6 +97,9 @@ DOMAIN-SUFFIX,jetbrains.com
 #Mega
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.co.nz
+IP-ASN,199124,no-resolve
+IP-ASN,205809,no-resolve
+
 
 #Minecraft
 DOMAIN-SUFFIX,modrinth.com
