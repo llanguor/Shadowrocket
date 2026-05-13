@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,metrica.yandex,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 DOMAIN-SUFFIX,stat-analytics.mediavitrina.ru,REJECT
-DOMAIN,tr.iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,adj.st,REJECT
 
 #Ads
@@ -27,7 +26,6 @@ DOMAIN,player.stats.live-video.net,REJECT
 
 #TV
 DOMAIN-SUFFIX,tns-counter.ru,REJECT
-DOMAIN,ca.iadsdk.apple.com,REJECT
 DOMAIN-KEYWORD,yandexadexchange,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
 DOMAIN-KEYWORD,ai-adtech,REJECT
