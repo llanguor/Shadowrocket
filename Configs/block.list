@@ -1,8 +1,3 @@
-#Other
-DOMAIN-SUFFIX,max.ru,REJECT
-DOMAIN-SUFFIX,maxhubs.ru,REJECT
-DOMAIN-SUFFIX,oneme.ru,REJECT
-
 #Analytics
 DOMAIN-KEYWORD,appsflyer,REJECT
 DOMAIN-KEYWORD,vk-analytics,REJECT
