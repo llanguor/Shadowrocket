@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,analytics.adjust.com,REJECT
 DOMAIN-SUFFIX,stat-analytics.mediavitrina.ru,REJECT
 DOMAIN-SUFFIX,adj.st,REJECT
+DOMAIN-SUFFIX,adjust.world,REJECT
 
 #Ads
 DOMAIN-SUFFIX,adfstat.yandex.ru,REJECT
@@ -24,7 +25,7 @@ DOMAIN-SUFFIX,tns-counter.ru,REJECT
 DOMAIN-KEYWORD,yandexadexchange,REJECT
 DOMAIN-SUFFIX,digitaltarget.ru,REJECT
 DOMAIN-KEYWORD,ai-adtech,REJECT
-DOMAIN,exchange.buzzoola.com,REJECT
+DOMAIN,buzzoola.com,REJECT
 DOMAIN-SUFFIX,richlifeads.ru,REJECT
 DOMAIN-SUFFIX,superfunads.ru,REJECT
 DOMAIN-SUFFIX,tapulsads.ru,REJECT
