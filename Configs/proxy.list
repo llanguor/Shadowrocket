@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,portal.afterpay.com
 DOMAIN-SUFFIX,cloudflare.com
 
+#Public (todo: move from)
+DOMAIN-KEYWORD,garmin
+
 #Apple
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,amazonaws.com
