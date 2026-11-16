@@ -1,5 +1,5 @@
 #!name=Spotify Premium
-#!desc=Частичное снятие ограничений бесплатной версии
+#!desc=Частичное снятие ограничений
 
 [Rule]
 AND,((DOMAIN-SUFFIX,spotify.com), (PROTOCOL,UDP)),REJECT
