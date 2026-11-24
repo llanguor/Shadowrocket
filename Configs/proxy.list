@@ -53,6 +53,10 @@ DOMAIN-KEYWORD,garmin
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,amazonaws.com
 
+#Apple Music
+#DOMAIN-SUFFIX,itunes.apple.com
+#DOMAIN-SUFFIX,
+
 #Meta
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,meta.com
